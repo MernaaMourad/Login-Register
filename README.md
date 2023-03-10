@@ -1,1 +1,1 @@
-A simple login register webform
+A simple login and register web forms.
